@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/github.io/Use-Popcorn/static/css/main.9a4eb742.css",
-    "main.js": "/github.io/Use-Popcorn/static/js/main.ebdf3eb3.js",
-    "index.html": "/github.io/Use-Popcorn/index.html",
-    "main.9a4eb742.css.map": "/github.io/Use-Popcorn/static/css/main.9a4eb742.css.map",
-    "main.ebdf3eb3.js.map": "/github.io/Use-Popcorn/static/js/main.ebdf3eb3.js.map"
+    "main.css": "/Use-Popcorn/static/css/main.9a4eb742.css",
+    "main.js": "/Use-Popcorn/static/js/main.ebdf3eb3.js",
+    "index.html": "/Use-Popcorn/index.html",
+    "main.9a4eb742.css.map": "/Use-Popcorn/static/css/main.9a4eb742.css.map",
+    "main.ebdf3eb3.js.map": "/Use-Popcorn/static/js/main.ebdf3eb3.js.map"
   },
   "entrypoints": [
     "static/css/main.9a4eb742.css",
